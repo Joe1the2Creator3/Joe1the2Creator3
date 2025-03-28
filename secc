@@ -1,0 +1,1 @@
+minio server https://node{1...16}.example.net/mnt/drive{1...8}example.net/mnt/drive{1...8
